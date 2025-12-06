@@ -95,6 +95,7 @@ Perfect for learners following the video.
 # 5. Learning Objectives
 
 After completing this module, learners will be able to:
+
 📘 Conceptual Understanding
 Describe components of a time series (trend, seasonality, residuals)
 Explain why stationarity matters for ARIMA
@@ -112,7 +113,7 @@ Understand uncertainty bounds in operational planning
 Identify when ARIMA vs SARIMA vs LSTM is appropriate
 These map directly to the evaluation criteria for documentation, pedagogy, and technical mastery.
 
-6. Show-and-Tell Video
+# 6. Show-and-Tell Video
 
 A 10-minute video following the Explain → Show → Try teaching model accompanies this repository.
 
@@ -123,7 +124,7 @@ Slide-based conceptual introduction
 Live Jupyter Notebook walkthrough
 Student practice instructions
 
-7. Requirements:
+# 7. Requirements:
 Requirements
 The environment is defined in requirements.txt:
 
@@ -139,7 +140,7 @@ jupyter>=1.0.0
 Install using:
 pip install -r requirements.txt
 
-8. Licenses:
+# 8. Licenses:
 Copyright (c) 2025 Kanishk Tawde
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
