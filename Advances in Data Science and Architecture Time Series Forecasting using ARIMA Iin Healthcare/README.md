@@ -28,7 +28,6 @@ Learners will gain both conceptual understanding and practical modeling skills, 
 - Evaluating models using MAE and RMSE  
 - Interpreting forecasts from a **hospital operations perspective**
 
----
 
 # 2. Repository Structure
 
@@ -129,11 +128,17 @@ Requirements
 The environment is defined in requirements.txt:
 
 numpy>=1.24.0
+
 pandas>=2.0.0
+
 matplotlib>=3.7.0
+
 seaborn>=0.13.0
+
 statsmodels>=0.14.0
+
 scikit-learn>=1.3.0
+
 jupyter>=1.0.0
 
 
