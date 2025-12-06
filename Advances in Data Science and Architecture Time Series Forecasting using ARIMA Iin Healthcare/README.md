@@ -50,7 +50,7 @@ time-series-arima-healthcare/
 # 3. Installation Instructions
 
 Step 1 — Clone the Repository
-git clone https://github.com/<your-username>/time-series-arima-healthcare.git
+git clone https://github.com/KanishkT04/Kanishk-Tawde-Projects/edit/main/Advances%20in%20Data%20Science%20and%20Architecture%20Time%20Series%20Forecasting%20using%20ARIMA%20Iin%20Healthcare)
 cd time-series-arima-healthcare
 
 Step 2 — Create a Virtual Environment
