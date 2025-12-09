@@ -4,7 +4,7 @@
 **Author:** Kanishk Tawde  
 **Course:** INFO 7390 — Advances in Data Science & Architecture  
 **Instructor:** Prof. Nik Bear Brown  
-**Semester:** Spring 2025  
+**Semester:** Fall 2025  
 
 ---
 
@@ -58,19 +58,17 @@ This system transforms raw numerical forecasts into **clear, actionable insights
 ```
 project/
 │
-├── notebooks/
-│   └── GenAI_ED_OpsCopilot.ipynb
+├── notebook/
+│   └── KanishkTawde_AdvanceDataScience_FinalProject_GenAI-EDOpsCopilot.ipynb
 │
 ├── app/
 │   └── app.py
 │
-├── src/
-│   ├── forecasting.py
-│   ├── llm_utils.py
-│   └── data_utils.py
+├── env/
+│   └── .env
 │
 ├── data/
-│   └── ed_synthetic_data.csv
+│   └── ed_visits_sample.csv
 │
 ├── requirements.txt
 └── README.md
@@ -96,8 +94,8 @@ project/
 
 ## **5.1 Clone Repository**
 ```bash
-git clone https://github.com/<your-repo>/GenAI_ED_OpsCopilot.git
-cd GenAI_ED_OpsCopilot
+git clone https://github.com/KanishkT04/Kanishk-Tawde-Projects/tree/main/Advances%20in%20Data%20Science%20and%20Architecture/KanishkTawde_GenAIEDOpsCopilot.git
+cd KanishkTawde_GenAIEDOpsCopilot
 ```
 
 ## **5.2 Create Virtual Environment**
@@ -276,7 +274,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-# 🎉 Thank You!
 
 This project demonstrates how **forecasting + generative AI** can create powerful decision-support tools that improve operational readiness in Emergency Departments.
 
