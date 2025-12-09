@@ -6,7 +6,7 @@
 **Instructor:** Prof. Nik Bear Brown  
 **Semester:** Fall 2025 
 
-App Link: https://kanishktawde-genaiedopscopilot.streamlit.app/
+App Link: https://kanishktawde-genai-edops.streamlit.app/
 
 Video Link: https://drive.google.com/file/d/1ua2su09mRNGJgrsHGI1ZgT1VJYFjoWjG/view?usp=sharing
 
